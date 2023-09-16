@@ -1,0 +1,32 @@
+
+{
+    "slides": [
+        {
+            "src":"https://picsum.photos/id/220/250/150",
+            "alt":"Image 1 foggy night"
+        },
+        {
+            "src":"https://picsum.photos/id/250/250/150",
+            "alt":"image 2 camera"
+        },
+        {
+            "src":"https://picsum.photos/id/268/250/150",
+            "alt":"Image 3 Beach"
+        },
+        {
+            "src":"https://picsum.photos/id/280/250/150",
+            "alt":"Iamge 4 beach rock wall"
+        },
+        {
+            "src":"https://picsum.photos/id/313/250/150",
+            "alt":"Image 5 foggy paddock"
+        },
+        {
+            "src":"https://picsum.photos/id/316/250/150",
+            "alt":"Image 6 walkway"
+        }
+
+    ]
+}
+
+
